@@ -1,2 +1,2 @@
-// This type error is intentional: it verifies that Vercel reports failed builds.
-export const intentionalBuildFailure: string = 42;
+// The intentional build failure has been resolved for the recovery deployment.
+export const intentionalBuildFailure: string = "resolved";
