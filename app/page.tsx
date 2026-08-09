@@ -26,7 +26,7 @@ export default function Home() {
     <main className="shell">
       <header className="hero">
         <span className="eyebrow">Deployment playground</span>
-        <h1>Vercel Test Lab</h1>
+        <h1>Vercel Preview Test</h1>
         <p>
           A deliberately small Next.js project for checking builds, routes, functions, and
           deployment metadata without any setup.
