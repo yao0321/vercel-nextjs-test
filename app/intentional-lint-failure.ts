@@ -1,7 +1,9 @@
 import { useState } from "react";
 
 export function IntentionalLintFailure() {
-  if (true) {
+  const shouldTriggerLintFailure = true;
+
+  if (shouldTriggerLintFailure) {
     useState(0);
   }
 
